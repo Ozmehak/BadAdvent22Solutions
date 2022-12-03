@@ -1,0 +1,12 @@
+{
+  "name": "day2advent22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day02/day02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calle & Anna Özmehak",
+  "license": "ISC",
+  "type": "module"
+}
